@@ -4,6 +4,6 @@
 -----
 
 ## INDEX
-- [ ] 1장 :::
+- [ ] 1장 ::: [첫 스터디](https://github.com/kksltv123/react-study/tree/master/first/README.md)
 - [X] 2장 :::
 - [ ] 3장 :::
